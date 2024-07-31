@@ -1,0 +1,7 @@
+asyncio
+websockets
+dataclasses
+sqlite3
+configparser
+adafruit-circuitpython-servokit
+adafruit-circuitpython-busdevice
